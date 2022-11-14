@@ -16,9 +16,11 @@
 
 .heading {
 	text-align: center;
+	justify-content: center;
 	font-family: 'Fira Code', monospace;
 	font-size: 3rem;
 	margin-bottom: 60px;
+	margin-right: 227px;
 }
 
 .sub-heading {
@@ -85,6 +87,17 @@ footer {
     float: right;
 }
 .image img{
-    height: 20.2em;
+    height: 28.2em;
     width: 36em;
+}
+.logo{
+	margin-left: 30px;
+    margin-right: 40px;
+    float: left;
+	margin: 0;
+	padding: 0;
+}
+.logo img{
+    height: 5em;
+    width: 12em;
 }
